@@ -1,6 +1,18 @@
 [
     {
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
         "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
     }
 ]
