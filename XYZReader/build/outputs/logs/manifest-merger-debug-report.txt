@@ -62,7 +62,7 @@ MERGED from [com.android.support:support-v4:23.3.0] /home/kev/AndroidStudioProje
 	android:icon
 		ADDED from /home/kev/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from /home/kev/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /home/kev/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:15:9-40
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /home/kev/AndroidStudioProjects/xyzreader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label
