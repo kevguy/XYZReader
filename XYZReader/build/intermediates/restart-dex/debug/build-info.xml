@@ -4,75 +4,30 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="137142628696313"
-    token="-458470118663084646"
-    verifier="R_CLASS_CHANGE" >
+    timestamp="138043819547318"
+    token="-458470118663084646" >
 
     <task
         name="javac"
-        duration="1192" />
+        duration="1088" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="112" />
+        duration="77" />
     <task
         name="verifier"
-        duration="63" />
+        duration="32" />
 
     <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-        type="DEX" />
-    <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-        type="DEX" />
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="135881644917307" >
+    <build timestamp="138043819547318" >
         <artifact
             location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="136197319764447"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="137142628696313"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
