@@ -4,35 +4,39 @@
         "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_thumb.xml"
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color-v23/abc_tint_switch_track.xml"
     }
 ]

@@ -1,12 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="7331030f1a3ae55e64be413f451bd1d933bd7840">
-        <dex dex="/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f165b0c0ed853a3dd409ec6e4b411ca7c4ea8ff/classes.dex" />
-    </item>
-
-</items>
+<items version="2" />

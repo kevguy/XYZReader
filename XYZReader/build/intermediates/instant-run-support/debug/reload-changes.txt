@@ -1,5 +1,6 @@
-CHANGED,/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$style$override.class
-CHANGED,/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/cardview/R$style$override.class
-CHANGED,/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$style$override.class
-CHANGED,/home/kev/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/R$style$override.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$override.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$Adapter$1$override.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$ViewHolder$override.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$1$override.class
+CHANGED,/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/xyzreader/ui/ArticleListActivity$Adapter$override.class
