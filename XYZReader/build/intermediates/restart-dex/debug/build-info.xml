@@ -4,25 +4,40 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="136197319764447"
+    timestamp="137142628696313"
     token="-458470118663084646"
-    verifier="CLASS_ADDED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="909" />
+        duration="1192" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="175" />
+        duration="112" />
     <task
         name="verifier"
-        duration="62" />
+        duration="63" />
 
     <artifact
-        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
         type="DEX" />
 
     <build timestamp="135881644917307" >
@@ -35,6 +50,28 @@
         verifier="CLASS_ADDED" >
         <artifact
             location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="137142628696313"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/kevlai/Desktop/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
             type="DEX" />
     </build>
 

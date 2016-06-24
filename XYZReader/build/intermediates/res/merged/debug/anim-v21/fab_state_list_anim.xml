@@ -13,7 +13,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
   -->
-
+<set xmlns:android="http://schemas.android.com/apk/res/android">
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:state_enabled="true"
@@ -22,7 +22,7 @@
             <objectAnimator
                 android:duration="@android:integer/config_shortAnimTime"
                 android:propertyName="translationZ"
-                android:valueTo="@dimen/fab_press_translation_z"
+                android:valueTo="@dimen/fab_press_elevation"
                 android:valueType="floatType" />
         </set>
     </item>
@@ -31,8 +31,10 @@
             <objectAnimator
                 android:duration="@android:integer/config_shortAnimTime"
                 android:propertyName="translationZ"
+                android:valueFrom="@dimen/fab_press_elevation"
                 android:valueTo="0"
                 android:valueType="floatType" />
         </set>
     </item>
 </selector>
+</set>

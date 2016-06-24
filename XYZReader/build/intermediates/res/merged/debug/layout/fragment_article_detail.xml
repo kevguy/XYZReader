@@ -102,9 +102,13 @@
             android:id="@+id/share_fab"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_margin="16dp"
+            android:layout_margin="@dimen/fab_margin"
+            android:contentDescription="@string/action_share"
             android:clickable="true"
             android:src="@drawable/ic_share"
+            android:stateListAnimator="@anim/fab_state_list_anim"
+            app:elevation="@dimen/fab_elevation"
+            app:pressedTranslationZ="@dimen/fab_pressed_translation_z"
             app:layout_anchor='@id/draw_insets_frame_layout'
             app:layout_anchorGravity="bottom|right|end" />
 
